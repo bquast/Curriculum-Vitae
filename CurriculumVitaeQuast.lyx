@@ -1,0 +1,701 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{1.25}
+
+\usepackage{mathpazo}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.6in
+\rightmargin 0.75in
+\bottommargin 0.6in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size large
+\noun on
+Bastiaan 
+\noun default
+Quast
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Department of International Economics
+\begin_inset Newline newline
+\end_inset
+
+The Graduate Institute 
+\begin_inset Newline newline
+\end_inset
+
+Geneva, Switzerland
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 13pt
+\end_inset
+
+
+\series bold
+Education
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2012-16 the graduate institute 
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Doctor of Philosophy in Development Economics, Defense in September 2016
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2010--12 university of st.
+ gallen
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Master in Quantitative Economics and Finance
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2006-10 university of groningen
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Bacherlor of Science in Economics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2006-10 university of groningen
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Bachelor of Arts in Theoretical Philosophy
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Academic Positions
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015--16 Economist Fellow, The Internet Society (Geneva)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2014--15 Research Assistant, Centre on Conflict, Development and Peacebuilding
+ (The Graduate Institute)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013--14 Research Assistant, Centre for Finance and Development (The Graduate
+ Institute)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 Teaching Assistant, The Graduate Institute
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 Research Assistant, University of Groningen
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+1976--82 Assistant Professor of Mathematics, Nowhere University
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+1971--75 Teaching Assistant, University of Someplace
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+1970 Teaching Assistant, National Science Foundation Mathematics Program,
+ University of Couldbeanywhere
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Interests
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Artificial Neural Networks
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Microeconometrics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Distributed Systems: e.g.
+ Blockchain (Bitcoin)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Internet Connectivity in Developing Countries
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Projects: Current and Planned
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Neural Networks and Complex Emergencies: Neighbourhood Security and Ebola
+ in Guinea
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Making the Next Billion Demand Access: The Local-Content Effect of Google.co.za
+ in Setswana
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Word Prediction using LSTM on mobile 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Submissions
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2006 
+\begin_inset Quotes eld
+\end_inset
+
+Making the Next Billion Demand Access: The Local-Content Effect of Google.co.za
+ in Setswana
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+EEA 2015
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Quotes eld
+\end_inset
+
+decompr: GVC decomposition in R
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+CTEI Working Paper Series
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Quotes eld
+\end_inset
+
+Cryptocurrency and Inflation
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+CFD Working Paper Series
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Software Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+RNN
+\begin_inset Quotes erd
+\end_inset
+
+ CRAN
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Quotes eld
+\end_inset
+
+rddtools
+\begin_inset Quotes erd
+\end_inset
+
+ CRAN
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Quotes eld
+\end_inset
+
+learNN
+\begin_inset Quotes erd
+\end_inset
+
+ CRAN
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Quotes eld
+\end_inset
+
+decompr
+\begin_inset Quotes erd
+\end_inset
+
+ CRAN
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Quotes eld
+\end_inset
+
+gvc
+\begin_inset Quotes erd
+\end_inset
+
+ CRAN
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Quotes eld
+\end_inset
+
+diagonals
+\begin_inset Quotes erd
+\end_inset
+
+ CRAN
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Other Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 Coginta
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 Coginta
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Affiliations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ The Internet Society
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre for Finance and Development
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre on Conflict, Development and Peacebuilding
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre on Trade and Economic Integration
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
