@@ -1,0 +1,768 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage[style=philosophy-modern,natbib=true,backend=biber]{biblatex}
+\addbibresource{/Users/quast/Curriculum-Vitae/bibliography.bib}
+\end_preamble
+\use_default_options true
+\begin_modules
+logicalmkup
+\end_modules
+\maintain_unincluded_children false
+\begin_local_layout
+Provides natbib 1
+\end_local_layout
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Neural Network and Complex Emergencies"
+\pdf_author "Bastiaan Quast"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size large
+\noun on
+\lang american
+bastiaan quast
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+List of Publications
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace 13pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang american
+Research Submissions
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Making the Next Billion Demand Access: The Local-Content Effect of Google.co.za
+ in Setswana
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+EEA 2016 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2016making"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang american
+Research Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2015 
+\begin_inset Quotes eld
+\end_inset
+
+decompr: GVC decomposition in R
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+CTEI Working Paper Series 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2015decompr"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2014 
+\begin_inset Quotes eld
+\end_inset
+
+Cryptocurrency and Inflation
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+CFD Working Paper Series 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2014cryptocurrencies"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang american
+Working Papers
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Male/Female Income and Child Growth: a Male-Only Pension Expension in South
+ Africa
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang american
+Software Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2016 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+rnn
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN.
+
+\emph default
+ First Recurrent Neural Network in the R language.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=rnn
+\end_layout
+
+\end_inset
+
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2015rnn"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2015 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+rddtools
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Framework and tools for Regression Discontinuity Design.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=rddtools
+\end_layout
+
+\end_inset
+
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "stigler2015rddtools"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2015 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+learNN
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Learn how Neural Networks works.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=learNN
+\end_layout
+
+\end_inset
+
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2015learnn"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+decompr
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Global Value Chain decomposition.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=decompr
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "quast2015decompr"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+gvc
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Tools for Global Value Chain analysis.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=gvc
+\end_layout
+
+\end_inset
+
+ - 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+wiod
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Data package containing the World Input Output Database.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=wiod
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+diagonals
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Tools for manipulating fat-diagonal matrices (e.g.
+ block matrices).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+https://cran.r-project.org/package=diagonals
+\end_layout
+
+\end_inset
+
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2015diagonals"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang american
+Other Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2014 Diagnostic Local de Sécurité 2014 de Conakry (Guinée) 
+\emph on
+Coginta 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "wisler2014diagnostic"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2013 Diagnostic Local de Sécurité 2013 de Genève (Suisse) 
+\emph on
+Coginta 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "wisler2013diagnostic"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "bibliography"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+printbibliography
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
