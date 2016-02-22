@@ -159,3 +159,5 @@ pythontex-files-*/
 TSWLatexianTemp*
 
 *.lyx~
+
+*.lyx#
