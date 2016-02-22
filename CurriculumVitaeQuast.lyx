@@ -12,6 +12,9 @@
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
+\begin_modules
+logicalmkup
+\end_modules
 \maintain_unincluded_children false
 \language american
 \language_package default
@@ -86,14 +89,22 @@
 
 \size large
 \noun on
-Bastiaan 
+bastiaan quast
+\begin_inset Newline newline
+\end_inset
+
+http://qua.st/
 \noun default
-Quast
+
 \begin_inset Newline newline
 \end_inset
 
 
 \emph on
+
+\begin_inset Newline newline
+\end_inset
+
 Department of International Economics
 \begin_inset Newline newline
 \end_inset
@@ -148,7 +159,7 @@ height "1pt"
 
 
 \emph on
-Doctor of Philosophy in Development Economics, Defense in September 2016
+Doctor of Philosophy in Development Economics, Defence in September 2016
 \end_layout
 
 \begin_layout Labeling
@@ -227,45 +238,28 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2015--16 Economist Fellow, The Internet Society (Geneva)
+2015--16 Economist Fellow; The Internet Society, Geneva
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2014--15 Research Assistant, Centre on Conflict, Development and Peacebuilding
- (The Graduate Institute)
+2014--15 Research Assistant; Centre on Conflict, Development and Peacebuilding,
+ Geneva
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2013--14 Research Assistant, Centre for Finance and Development (The Graduate
- Institute)
+2013--14 Research Assistant; Centre for Finance and Development, Geneva
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2013 Teaching Assistant, The Graduate Institute
+2013 Teaching Assistant; The Graduate Institute, Geneva
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2010 Research Assistant, University of Groningen
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-1976--82 Assistant Professor of Mathematics, Nowhere University
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-1971--75 Teaching Assistant, University of Someplace
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-1970 Teaching Assistant, National Science Foundation Mathematics Program,
- University of Couldbeanywhere
+2010 Research Assistant; University of Groningen
 \end_layout
 
 \begin_layout Standard
@@ -294,6 +288,14 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Complexity Modelling
 \end_layout
 
 \begin_layout Labeling
@@ -380,7 +382,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Word Prediction using LSTM on mobile 
+ Word Prediction using LSTM-RNN on mobile GPU
 \end_layout
 
 \begin_layout Standard
@@ -413,7 +415,7 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2006 
+2016 
 \begin_inset Quotes eld
 \end_inset
 
@@ -424,7 +426,7 @@ Making the Next Billion Demand Access: The Local-Content Effect of Google.co.za
 
  
 \emph on
-EEA 2015
+EEA 2016
 \end_layout
 
 \begin_layout Standard
@@ -516,79 +518,240 @@ height "1pt"
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2016 
-\begin_inset Quotes eld
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+rnn
+\end_layout
+
 \end_inset
 
-RNN
-\begin_inset Quotes erd
+ 
+\emph on
+CRAN.
+
+\emph default
+ First Recurrent Neural Network in the R language.
+\begin_inset Newline newline
 \end_inset
 
- CRAN
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=rnn
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2015 
-\begin_inset Quotes eld
-\end_inset
+\begin_inset Flex Code
+status open
 
+\begin_layout Plain Layout
 rddtools
-\begin_inset Quotes erd
+\end_layout
+
 \end_inset
 
- CRAN
+ 
+\emph on
+CRAN
+\emph default
+.
+ Framework and tools for Regression Discontinuity Design.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=rddtools
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2015 
-\begin_inset Quotes eld
-\end_inset
+\begin_inset Flex Code
+status open
 
+\begin_layout Plain Layout
 learNN
-\begin_inset Quotes erd
+\end_layout
+
 \end_inset
 
- CRAN
+ 
+\emph on
+CRAN
+\emph default
+.
+ Learn how Neural Networks works.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=learNN
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2014 
-\begin_inset Quotes eld
-\end_inset
+\begin_inset Flex Code
+status open
 
+\begin_layout Plain Layout
 decompr
-\begin_inset Quotes erd
+\end_layout
+
 \end_inset
 
- CRAN
+ 
+\emph on
+CRAN
+\emph default
+.
+ Global Value Chain decomposition.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=decompr
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2014 
-\begin_inset Quotes eld
-\end_inset
+\begin_inset Flex Code
+status open
 
+\begin_layout Plain Layout
 gvc
-\begin_inset Quotes erd
+\end_layout
+
 \end_inset
 
- CRAN
+ 
+\emph on
+CRAN
+\emph default
+.
+ Tools for Global Value Chain analysis.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=gvc
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2014 
-\begin_inset Quotes eld
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+wiod
+\end_layout
+
 \end_inset
 
+ 
+\emph on
+CRAN
+\emph default
+.
+ Data package containing the World Input Output Database.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=wiod
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
 diagonals
-\begin_inset Quotes erd
+\end_layout
+
 \end_inset
 
- CRAN
+ 
+\emph on
+CRAN
+\emph default
+.
+ Tools for manipulating fat-diagonal matrices (e.g.
+ block matrices).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=diagonals
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -621,12 +784,16 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2014 Coginta
+2014 Diagnostic Local de Sécurité 2014 de Conakry (Guinée) 
+\emph on
+Coginta
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2013 Coginta
+2013 Diagnostic Local de Sécurité 2013 de Genève (Suisse) 
+\emph on
+Coginta
 \end_layout
 
 \begin_layout Standard
@@ -687,14 +854,6 @@ height "1pt"
 \end_inset
 
  Centre on Trade and Economic Integration
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-\begin_inset space ~
-\end_inset
-
-
 \end_layout
 
 \end_body
