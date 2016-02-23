@@ -229,7 +229,11 @@ height "1pt"
 \begin_inset Quotes eld
 \end_inset
 
-decompr: GVC decomposition in R
+
+\lang british
+decompr
+\lang american
+: GVC decomposition in R
 \begin_inset Quotes erd
 \end_inset
 
@@ -312,9 +316,19 @@ height "1pt"
 \begin_inset Quotes eld
 \end_inset
 
-Male/Female Income and Child Growth: a Male-Only Pension Expension in South
- Africa
+Male/Female Income and Child Growth: a Male-Only Pension 
+\lang english
+Expansion
+\lang american
+ in South Africa
 \begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2016malefemale"
+
 \end_inset
 
 
@@ -390,8 +404,8 @@ https://cran.r-project.org/package=rnn
 
  - 
 \begin_inset CommandInset citation
-LatexCommand citep
-key "quast2015rnn"
+LatexCommand citet
+key "quast2016rnn"
 
 \end_inset
 
