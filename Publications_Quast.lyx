@@ -687,8 +687,8 @@ https://cran.r-project.org/package=diagonals
 
  - 
 \begin_inset CommandInset citation
-LatexCommand citep
-key "quast2015diagonals"
+LatexCommand citet
+key "quast2014diagonals"
 
 \end_inset
 
