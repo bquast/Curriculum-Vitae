@@ -6,8 +6,8 @@
 \begin_preamble
 \frenchspacing
 \usepackage{amsmath}
-\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
-\renewcommand{\arraystretch}{1.25}
+\newcommand{\ø}{\raisebox{1.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{2.25}
 
 \usepackage{mathpazo}
 \end_preamble
@@ -151,15 +151,18 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2012-16 the graduate institute 
+2012--16 the graduate institute 
+\emph on
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
 Doctor of Philosophy in Development Economics, Defence in September 2016
+\begin_inset Newline newline
+\end_inset
+
+(September 2012 -- September 2016)
 \end_layout
 
 \begin_layout Labeling
@@ -176,6 +179,10 @@ Doctor of Philosophy in Development Economics, Defence in September 2016
 
 \emph on
 Master in Quantitative Economics and Finance
+\begin_inset Newline newline
+\end_inset
+
+(September 2010 -- September 2012)
 \end_layout
 
 \begin_layout Labeling
@@ -191,6 +198,10 @@ Master in Quantitative Economics and Finance
 
 \emph on
 Bacherlor of Science in Economics
+\begin_inset Newline newline
+\end_inset
+
+(September 2006 -- September 2010)
 \end_layout
 
 \begin_layout Labeling
@@ -206,6 +217,10 @@ Bacherlor of Science in Economics
 
 \emph on
 Bachelor of Arts in Theoretical Philosophy
+\begin_inset Newline newline
+\end_inset
+
+(September 2006 -- September 2010)
 \end_layout
 
 \begin_layout Standard
@@ -239,27 +254,47 @@ height "1pt"
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2015--16 Economist Fellow; The Internet Society, Geneva
+\begin_inset Newline newline
+\end_inset
+
+(September 2015 -- September 2016)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2014--15 Research Assistant; Centre on Conflict, Development and Peacebuilding,
  Geneva
+\begin_inset Newline newline
+\end_inset
+
+(February 2014 -- September 2015)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2013--14 Research Assistant; Centre for Finance and Development, Geneva
+\begin_inset Newline newline
+\end_inset
+
+(September 2013 -- February 2014)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2013 Teaching Assistant; The Graduate Institute, Geneva
+\begin_inset Newline newline
+\end_inset
+
+(September 2013 -- January 2014)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2010 Research Assistant; University of Groningen
+2009 Research Assistant; University of Groningen
+\begin_inset Newline newline
+\end_inset
+
+(September 2009 -- December 2009)
 \end_layout
 
 \begin_layout Standard
@@ -329,6 +364,10 @@ height "1pt"
 \end_inset
 
  Internet Connectivity in Developing Countries
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -388,50 +427,6 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
-Research Submissions
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2016 
-\begin_inset Quotes eld
-\end_inset
-
-Making the Next Billion Demand Access: The Local-Content Effect of Google.co.za
- in Setswana
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-EEA 2016
-\end_layout
-
-\begin_layout Standard
-
-\series bold
 Research Publications
 \series default
 
@@ -485,6 +480,89 @@ Cryptocurrency and Inflation
  
 \emph on
 CFD Working Paper Series
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Conference Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Making the Next Billion Demand Access: The Local-Content Effect of 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+google.co.za
+\end_layout
+
+\end_inset
+
+ in Setswana
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+EEA 2016 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2016making"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 
+\begin_inset Quotes eld
+\end_inset
+
+Urban Violence and Collective Efficacy in Karachi and Dhaka
+\begin_inset Quotes erd
+\end_inset
+
+ Pictet Foundation / Centre for Finance and Development Conference 2013
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2013urban"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

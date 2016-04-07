@@ -125,75 +125,6 @@ List of Publications
 \begin_inset Newline newline
 \end_inset
 
-Research Submissions
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-
-\lang american
-2016 
-\begin_inset Quotes eld
-\end_inset
-
-Making the Next Billion Demand Access: The Local-Content Effect of 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang american
-google.co.za
-\end_layout
-
-\end_inset
-
- in Setswana
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-EEA 2016 
-\emph default
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "quast2016making"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-\lang american
 Research Publications
 \series default
 
@@ -281,6 +212,98 @@ key "quast2014cryptocurrencies"
 
 \series bold
 \lang american
+Conference Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Making the Next Billion Demand Access: The Local-Content Effect of 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang american
+google.co.za
+\end_layout
+
+\end_inset
+
+ in Setswana
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+EEA 2016 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2016making"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\lang american
+2013 
+\begin_inset Quotes eld
+\end_inset
+
+Urban Violence and Collective Efficacy in Karachi and Dhaka
+\begin_inset Quotes erd
+\end_inset
+
+ Pictet Foundation / Centre for Finance and Development Conference 2013
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2013urban"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang american
 Working Papers
 \series default
 
@@ -324,7 +347,7 @@ Expansion
 \begin_inset Quotes erd
 \end_inset
 
- 
+ - 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "quast2016malefemale"
