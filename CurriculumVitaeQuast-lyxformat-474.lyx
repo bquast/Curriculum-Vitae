@@ -1,9 +1,7 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
-\save_transient_properties true
-\origin unavailable
 \textclass article
 \begin_preamble
 \frenchspacing
@@ -22,16 +20,16 @@ logicalmkup
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "default"
-\font_sans "default" "default"
-\font_typewriter "default" "default"
-\font_math "auto" "auto"
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100 100
-\font_tt_scale 100 100
+\font_sf_scale 100
+\font_tt_scale 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -124,7 +122,7 @@ Geneva, Switzerland
 
 
 \series bold
-Employment
+Education
 \series default
 
 \begin_inset Newline newline
@@ -153,145 +151,7 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2015–16 economist fellow 
-\emph on
-\noun default
-
-\begin_inset Newline newline
-\end_inset
-
-The Internet Society, Geneva 
-\emph default
-| Paper on exogenous increase in availability of local language content
- and internet adoption (EEA conf.
- 2016).
- Report 
-\begin_inset Quotes eld
-\end_inset
-
-Promoting Local Content in Africa
-\begin_inset Quotes erd
-\end_inset
-
-.
- Report on Internet Adblocking Insentive Structures.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\noun on
-2014–15 research assistant
-\noun default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Centre on Conflict, Development and Peacebuilding, The Graduate Institute,
- Geneva.
- 
-\emph default
-| Direction a large scale representative baseline survey of Conakry (Guinea)
- population.
- Analysis of a survey for the Canton of Geneva.
- Collaborate with the 
-\begin_inset Quotes eld
-\end_inset
-
-Institute Nationale du Development Humaine
-\begin_inset Quotes erd
-\end_inset
-
- (govt.
- Morocco) on a survey on behaviour and community relations, using a Regression
- Discontinuity Design Identification Strategy.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\noun on
-2013-14 research assistant
-\noun default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Centre for Finance and Development, The Graduate Institute, Geneva
-\emph default
- | Provided Research Design support.
- Redesigned the website.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\noun on
-2013-14 teaching assistant
-\noun default
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-The Graduate Institute, Geneva
-\emph default
- | Teach weekly Statistics workshop to 30 master students.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\noun on
-2009 research assistant
-\noun default
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Department of Economics and Business, University of Groningen
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Education 
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\noun on
-2012–16 the graduate institute 
+2012--16 the graduate institute 
 \emph on
 \noun default
 
@@ -299,13 +159,17 @@ height "1pt"
 \end_inset
 
 Doctor of Philosophy in Development Economics, Defence in September 2016
+\begin_inset Newline newline
+\end_inset
+
+(September 2012 -- September 2016)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2010–12 university of st.
+2010--12 university of st.
  gallen
 \noun default
 
@@ -315,6 +179,10 @@ Doctor of Philosophy in Development Economics, Defence in September 2016
 
 \emph on
 Master in Quantitative Economics and Finance
+\begin_inset Newline newline
+\end_inset
+
+(September 2010 -- September 2012)
 \end_layout
 
 \begin_layout Labeling
@@ -329,7 +197,11 @@ Master in Quantitative Economics and Finance
 
 
 \emph on
-Bachelor of Science in Economics
+Bacherlor of Science in Economics
+\begin_inset Newline newline
+\end_inset
+
+(September 2006 -- September 2010)
 \end_layout
 
 \begin_layout Labeling
@@ -345,6 +217,84 @@ Bachelor of Science in Economics
 
 \emph on
 Bachelor of Arts in Theoretical Philosophy
+\begin_inset Newline newline
+\end_inset
+
+(September 2006 -- September 2010)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Academic Positions
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015--16 Economist Fellow; The Internet Society, Geneva
+\begin_inset Newline newline
+\end_inset
+
+(September 2015 -- September 2016)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2014--15 Research Assistant; Centre on Conflict, Development and Peacebuilding,
+ Geneva
+\begin_inset Newline newline
+\end_inset
+
+(February 2014 -- September 2015)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013--14 Research Assistant; Centre for Finance and Development, Geneva
+\begin_inset Newline newline
+\end_inset
+
+(September 2013 -- February 2014)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 Teaching Assistant; The Graduate Institute, Geneva
+\begin_inset Newline newline
+\end_inset
+
+(September 2013 -- January 2014)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 Research Assistant; University of Groningen
+\begin_inset Newline newline
+\end_inset
+
+(September 2009 -- December 2009)
 \end_layout
 
 \begin_layout Standard
@@ -380,7 +330,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Internet and Telecommunications Dissemination
+ Complexity Modelling
 \end_layout
 
 \begin_layout Labeling
@@ -388,7 +338,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Microeconometric Estimators
+ Artificial Neural Networks
 \end_layout
 
 \begin_layout Labeling
@@ -396,7 +346,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Artificial Neural Networks (for time series, using Python & R)
+ Microeconometrics
 \end_layout
 
 \begin_layout Labeling
@@ -413,7 +363,65 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Complexity Modeling
+ Internet Connectivity in Developing Countries
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Projects: Current and Planned
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Neural Networks and Complex Emergencies: Neighbourhood Security and Ebola
+ in Guinea
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Making the Next Billion Demand Access: The Local-Content Effect of Google.co.za
+ in Setswana
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Word Prediction using LSTM-RNN on mobile GPU
 \end_layout
 
 \begin_layout Standard
@@ -525,6 +533,15 @@ google.co.za
  
 \emph on
 EEA 2016 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2016making"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
@@ -539,6 +556,13 @@ Urban Violence and Collective Efficacy in Karachi and Dhaka
 
  Pictet Foundation / Centre for Finance and Development Conference 2013
  - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "quast2013urban"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -883,32 +907,31 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Centre for Finance and Development; The Graduate Institute, Geneva
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Centre on Trade and Economic Integration; The Graduate Institute, Geneva
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Centre on Conflict, Development and Peacebuilding; The Graduate Institute,
- Geneva
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
  The Internet Society
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre for Finance and Development
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre on Conflict, Development and Peacebuilding
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre on Trade and Economic Integration
 \end_layout
 
 \end_body
