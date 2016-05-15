@@ -1,9 +1,7 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
-\save_transient_properties true
-\origin unavailable
 \textclass article
 \begin_preamble
 \frenchspacing
@@ -22,16 +20,16 @@ logicalmkup
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "default"
-\font_sans "default" "default"
-\font_typewriter "default" "default"
-\font_math "auto" "auto"
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100 100
-\font_tt_scale 100 100
+\font_sf_scale 100
+\font_tt_scale 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -119,6 +117,44 @@ Geneva, Switzerland
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Interests
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Internet and Telecommunications adoption | Microeconomic estimators | Artificial
+ Neural Networks & time series (R & Python) | Distributed Systems e.g.
+ Blockchain (Bitcoin) | Complexity Modeling
+\end_layout
+
+\begin_layout Standard
+
 \series bold
 Employment
 \series default
@@ -149,19 +185,18 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2015–16 economist fellow 
+2015–16 economist fellow | the internet society, geneva 
 \emph on
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-The Internet Society, Geneva 
+
 \emph default
-| Paper on exogenous increase in availability of local language content
- and internet adoption (EEA conf.
- 2016).
- Report 
+Paper on exogenous increase in availability of local language content and
+ internet adoption, to be presented at EEA 2016 | Conceputalised and executed
+ report 
 \begin_inset Quotes eld
 \end_inset
 
@@ -169,30 +204,36 @@ Promoting Local Content in Africa
 \begin_inset Quotes erd
 \end_inset
 
-.
- Report on Internet Adblocking Insentive Structures.
+ presented at Africa Internet Summit | Conceptualised and executed report
+ on Internet Adblocking Insentive Structures
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2014–15 research assistant
+2013-15 research consultant | coginta, geneva / guinea
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
+Directed a large scale representative baseline survey of Conakry (Guinea)
+ population | Conducted analysis for Canton of Geneva commissioned survey
+ on police victimisation
+\end_layout
 
-\emph on
-Centre on Conflict, Development and Peacebuilding, The Graduate Institute,
- Geneva.
- 
-\emph default
-| Direction a large scale representative baseline survey of Conakry (Guinea)
- population.
- Analysis of a survey for the Canton of Geneva.
- Collaborate with the 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2014–15 research assistant | centre on conflict, development and peacebuilding
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Collaborated with the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -201,58 +242,51 @@ Institute Nationale du Development Humaine
 \end_inset
 
  (govt.
- Morocco) on a survey on behaviour and community relations, using a Regression
- Discontinuity Design Identification Strategy.
+ Morocco) to direct a survey on behaviour and community relations, using
+ a Regression Discontinuity Design Identification Strategy
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2013-14 research assistant
+2013-14 research assistant | centre for finance and development, geneva
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
-Centre for Finance and Development, The Graduate Institute, Geneva
-\emph default
- | Research Design.
- Redesign website.
+Developed survey design on remittances from Geneva | Redeveloped Centre's
+ website
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2013-14 teaching assistant
+2013-14 teaching assistant | the graduate institute, geneva
 \noun default
  
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
-The Graduate Institute, Geneva
-\emph default
- | Teach weekly Statistics workshop to 30 master students.
+Taught weekly Masters' Statistics workshops | Supervised Masters' Research
+ Projects
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2009 research assistant
+2009 research assistant | university of groningen, netherlands
 \noun default
- 
+
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
-Department of Economics and Business, University of Groningen
+Data collection and analysis for Ministry of Economics Affairs commisioned
+ survey on adherence of businesses to Corporate Social Responsibility code
+ (code Tabaksblat)
 \end_layout
 
 \begin_layout Standard
@@ -287,60 +321,43 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2012–16 the graduate institute 
+2012–16 doctor of philosophy in development economics | the graduate institute
 \emph on
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-Doctor of Philosophy in Development Economics, Defence in September 2016
+Defence in September 2016
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2010–12 university of st.
+2010–12 master in quantitative economcis and finance |university of st.
  gallen
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
-Master in Quantitative Economics and Finance
+Presented research on rate of renewable energy adoption in Nepal, at The
+ World Bank HQ
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2006-10 university of groningen
-\noun default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Bachelor of Science in Economics
+2006-10 bsc economics | university of groningen
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2006-10 university of groningen
-\noun default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Bachelor of Arts in Theoretical Philosophy
+2006-10 ba theoretical philosophy | university of groningen
 \end_layout
 
 \begin_layout Standard
@@ -392,7 +409,7 @@ CTEI Working Paper Series
 \begin_inset Quotes eld
 \end_inset
 
-Cryptocurrency and Inflation
+Cryptocurrencies and Inflation
 \begin_inset Quotes erd
 \end_inset
 
@@ -514,7 +531,38 @@ rnn
 CRAN.
 
 \emph default
- First Recurrent Neural Network in the R language.
+ First Recurrent Neural Network in the R language.2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+decompr
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Global Value Chain decomposition.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=decompr
+\end_layout
+
+\end_inset
+
+| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 6000 downloads
+ | Used for: World Bank study, VoxEU eBook, Taiwan Bureau of Statistics
+ study
 \begin_inset Newline newline
 \end_inset
 
@@ -534,7 +582,43 @@ https://cran.r-project.org/package=rnn
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2016 
+2015 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+decompr
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Global Value Chain decomposition.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+https://cran.r-project.org/package=decompr
+\end_layout
+
+\end_inset
+
+| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 6000 downloads
+ | Used for: World Bank GVC study, VoxEU GVCs eBook, Taiwan Bureau of Statistics
+ China-trade study
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
 \begin_inset Flex Code
 status open
 
@@ -549,7 +633,7 @@ sigmoid
 CRAN
 \emph default
 .
- several Sigmoid functions (logistic, Gompertz), inverses (logit), and SoftMax
+ Sigmoid functions (logistic, Gompertz), inverses (logit), and SoftMax
 \begin_inset Newline newline
 \end_inset
 
@@ -583,7 +667,7 @@ rddtools
 CRAN
 \emph default
 .
- Framework and tools for Regression Discontinuity Design.
+ Framework and tools for Regression Discontinuity Design
 \begin_inset Newline newline
 \end_inset
 
@@ -617,7 +701,7 @@ learNN
 CRAN
 \emph default
 .
- Learn how Neural Networks works.
+ Learn how Neural Networks work
 \begin_inset Newline newline
 \end_inset
 
@@ -641,40 +725,6 @@ https://cran.r-project.org/package=learNN
 status open
 
 \begin_layout Plain Layout
-decompr
-\end_layout
-
-\end_inset
-
- 
-\emph on
-CRAN
-\emph default
-.
- Global Value Chain decomposition.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=decompr
-\end_layout
-
-\end_inset
-
-| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 6000 downloads
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2014 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
 gvc
 \end_layout
 
@@ -685,7 +735,7 @@ gvc
 CRAN
 \emph default
 .
- Tools for Global Value Chain analysis.
+ Tools for Global Value Chain analysis
 \begin_inset Newline newline
 \end_inset
 
@@ -719,8 +769,8 @@ diagonals
 CRAN
 \emph default
 .
- Tools for manipulating fat-diagonal matrices (e.g.
- block matrices).
+ Tools for manipulating fat-diagonal matrices, e.g.
+ block matrices
 \begin_inset Newline newline
 \end_inset
 
@@ -777,75 +827,6 @@ Coginta
 2013 Diagnostic Local de Sécurité 2013 de Genève (Suisse) 
 \emph on
 Coginta
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Research Interests
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Internet and Telecommunications Dissemination
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Microeconometric Estimators
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Artificial Neural Networks (for time series, using Python & R)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Distributed Systems: e.g.
- Blockchain (Bitcoin)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Complexity Modeling
 \end_layout
 
 \begin_layout Standard
