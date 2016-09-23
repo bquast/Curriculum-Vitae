@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass article
 \begin_preamble
 \frenchspacing
@@ -20,16 +22,16 @@ logicalmkup
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -343,7 +345,7 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-Defence in September 2016
+Defence in October 2016
 \end_layout
 
 \begin_layout Labeling
@@ -357,8 +359,13 @@ Defence in September 2016
 \begin_inset Newline newline
 \end_inset
 
+Studied under Piedro Veglio, former Executive Director for Switzerland to
+ The World Bank
+\begin_inset Newline newline
+\end_inset
+
 Presented research on rate of renewable energy adoption in Nepal, at The
- World Bank HQ
+ World Bank
 \end_layout
 
 \begin_layout Labeling
@@ -405,6 +412,21 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Making the Next Billion Demand Access: google.co.za in Setswana
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+CFD Working Paper Series
 \end_layout
 
 \begin_layout Labeling
@@ -561,27 +583,6 @@ decompr
 \end_inset
 
  
-\emph on
-CRAN
-\emph default
-.
- Global Value Chain decomposition.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=decompr
-\end_layout
-
-\end_inset
-
-| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 6000 downloads
- | Used for: World Bank study, VoxEU eBook, Taiwan Bureau of Statistics
- study
 \begin_inset Newline newline
 \end_inset
 
@@ -595,8 +596,8 @@ https://cran.r-project.org/package=rnn
 
 \end_inset
 
-| multilayer Recurrent Neural Network (Deep Learning) | < 1000 downloads
- in 2 months
+| multilayer Recurrent Neural Network (Deep Learning) | > 2500 downloads
+ in 5 months
 \end_layout
 
 \begin_layout Labeling
