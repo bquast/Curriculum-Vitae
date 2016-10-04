@@ -150,9 +150,9 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-Internet and Telecommunications adoption | Microeconomic estimators | Artificial
- Neural Networks & time series (R & Python) | Distributed Systems e.g.
- Blockchain (Bitcoin) | Complexity Modeling
+Internet and Telecommunications adoption | Trade Analysis | Microeconomic
+ estimators | Artificial Neural Networks (R & Python) | Blockchain (Bitcoin)
+ | Complexity Modeling
 \end_layout
 
 \begin_layout Standard
@@ -345,7 +345,9 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-Defence in October 2016
+
+\emph default
+Internet Adoption in Africa | Trade Analysis | Gender and Child Growth
 \end_layout
 
 \begin_layout Labeling
@@ -364,8 +366,7 @@ Studied under Piedro Veglio, former Executive Director for Switzerland to
 \begin_inset Newline newline
 \end_inset
 
-Presented research on rate of renewable energy adoption in Nepal, at The
- World Bank
+Research on microhydropoewr renewable energy, at The World Bank
 \end_layout
 
 \begin_layout Labeling
@@ -412,6 +413,21 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Global Value Chains in LICs
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+forthcoming
 \end_layout
 
 \begin_layout Labeling
@@ -572,16 +588,7 @@ rnn
 CRAN.
 
 \emph default
- First Recurrent Neural Network in the R language.2014 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-decompr
-\end_layout
-
-\end_inset
-
+ First Recurrent Neural Network in the R language.
  
 \begin_inset Newline newline
 \end_inset
