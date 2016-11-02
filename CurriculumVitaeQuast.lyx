@@ -338,7 +338,7 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2012–16 doctor of philosophy in development economics | the graduate institute
+2012–16 phd in development economics | the graduate institute geneva
 \emph on
 \noun default
 
@@ -360,7 +360,7 @@ Jury: Richard Baldwin (president), Jean-Louis Arcand (supervisor) & Michael
 \labelwidthstring 00.00.0000
 
 \noun on
-2010–12 master in quantitative economcis and finance |university of st.
+2010–12 master in quantitative economics and finance |university of st.
  gallen
 \noun default
 
@@ -396,7 +396,7 @@ Research on microhydropower renewable energy, at The World Bank
 \begin_layout Standard
 
 \series bold
-Research Publications
+Research Papers
 \series default
 
 \begin_inset Newline newline
@@ -484,7 +484,7 @@ CFD Working Paper Series
 \begin_layout Standard
 
 \series bold
-Conference Publications
+Conference Presentations
 \series default
 
 \begin_inset Newline newline
@@ -552,7 +552,7 @@ Pictet Foundation / Centre for Finance and Development Conference 2013
 \begin_layout Standard
 
 \series bold
-Software Publications
+Software Development
 \series default
 
 \begin_inset Newline newline
@@ -927,7 +927,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- The Internet Society
+ Ifo Expert Group
 \end_layout
 
 \end_body
