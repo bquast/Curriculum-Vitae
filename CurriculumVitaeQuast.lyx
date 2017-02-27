@@ -409,7 +409,7 @@ Research on microhydropower renewable energy, at The World Bank
 \begin_layout Standard
 
 \series bold
-Research Papers
+Selected Research Papers
 \series default
 
 \begin_inset Newline newline
@@ -446,7 +446,7 @@ Global Value Chains in LICs
 
  | 
 \emph on
-forthcoming
+CTEI Working Paper Series
 \end_layout
 
 \begin_layout Labeling
@@ -461,7 +461,7 @@ Making the Next Billion Demand Access: google.co.za in Setswana
 
  | 
 \emph on
-CFD Working Paper Series
+CFD Working Paper
 \end_layout
 
 \begin_layout Labeling
@@ -565,6 +565,49 @@ Pictet Foundation / Centre for Finance and Development Conference 2013
 \begin_layout Standard
 
 \series bold
+Other Publications, Op Eds and Short Notes
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2017 
+\begin_inset Quotes eld
+\end_inset
+
+Global Value Chains in Developing Economies
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+VoxEU
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 Software Development
 \series default
 
@@ -657,7 +700,7 @@ https://cran.r-project.org/package=decompr
 
 \end_inset
 
-| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 6000 downloads
+| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 10000 downloads
  | Used for: World Bank GVC study, VoxEU GVCs eBook, Taiwan Bureau of Statistics
  China-trade study
 \end_layout
@@ -723,40 +766,6 @@ status open
 
 \begin_layout Plain Layout
 https://cran.r-project.org/package=rddtools
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2015 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-learNN
-\end_layout
-
-\end_inset
-
- 
-\emph on
-CRAN
-\emph default
-.
- Learn how Neural Networks work
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=learNN
 \end_layout
 
 \end_inset
@@ -915,6 +924,14 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
+ Ifo Expert Group
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
  Centre for Finance and Development; The Graduate Institute, Geneva
 \end_layout
 
@@ -933,14 +950,6 @@ height "1pt"
 
  Centre on Conflict, Development and Peacebuilding; The Graduate Institute,
  Geneva
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Ifo Expert Group
 \end_layout
 
 \end_body
