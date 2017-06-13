@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 543
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -32,6 +32,8 @@ logicalmkup
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -73,7 +75,10 @@ logicalmkup
 \tocdepth 3
 \paragraph_separation skip
 \defskip medskip
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -193,7 +198,8 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-Gender impact evaluation of FTAs | Modelling Impact of FTA with EU
+Gender impact evaluation of FTAs on Developing Countries (East African Community
+), using Computation General Equilibrium programming (GTAP)
 \end_layout
 
 \begin_layout Labeling
@@ -258,7 +264,7 @@ Institute Nationale du Development Humaine
 
  (govt.
  Morocco) to direct a survey on behaviour and community relations, using
- a Regression Discontinuity Design Identification Strategy
+ a Regression Discontinuity Design identification strategy
 \end_layout
 
 \begin_layout Labeling
@@ -315,8 +321,7 @@ Designed and directed survey on implementation of environmental, social,
 \end_inset
 
 Data collection and analysis for Ministry of Economics Affairs commisioned
- survey on adherence of businesses to Corporate Social Responsibility code
- (code Tabaksblat)
+ survey
 \end_layout
 
 \begin_layout Standard
@@ -360,13 +365,13 @@ height "1pt"
 
 
 \emph default
-Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child
- Growth
+Jury: Richard Baldwin (president), Jean-Louis Arcand (supervisor) & Michael
+ Kende
 \begin_inset Newline newline
 \end_inset
 
-Jury: Richard Baldwin (president), Jean-Louis Arcand (supervisor) & Michael
- Kende
+Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child
+ Growth
 \end_layout
 
 \begin_layout Labeling
@@ -380,12 +385,13 @@ Jury: Richard Baldwin (president), Jean-Louis Arcand (supervisor) & Michael
 \begin_inset Newline newline
 \end_inset
 
-Studied under Piedro Veglio, former Executive Director for Switzerland to
- The World Bank
+Research for Dr.
+ Piedro Veglio, Executive Director for Switzerland to The World Bank
 \begin_inset Newline newline
 \end_inset
 
-Research on microhydropower renewable energy, at The World Bank
+Microhydropower in remote dev.
+ countries, at The World Bank (D.C.)
 \end_layout
 
 \begin_layout Labeling
@@ -436,7 +442,7 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2016 
+2017 
 \begin_inset Quotes eld
 \end_inset
 
@@ -455,13 +461,13 @@ CTEI Working Paper Series
 \begin_inset Quotes eld
 \end_inset
 
-Making the Next Billion Demand Access: google.co.za in Setswana
+Making the Next Billion Demand Access
 \begin_inset Quotes erd
 \end_inset
 
  | 
 \emph on
-CFD Working Paper
+CFD Working Paper | G7 briefing notes
 \end_layout
 
 \begin_layout Labeling
@@ -544,7 +550,7 @@ google.co.za
 
  | 
 \emph on
-EEA Annual Conference 2016 
+EEA Annual Conference 2016
 \end_layout
 
 \begin_layout Labeling
@@ -665,8 +671,7 @@ https://cran.r-project.org/package=rnn
 
 \end_inset
 
-| multilayer Recurrent Neural Network (Deep Learning) | > 2500 downloads
- in 5 months
+| multilayer Recurrent Neural Network (Deep Learning) | > 8000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -702,7 +707,7 @@ https://cran.r-project.org/package=decompr
 
 | Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 10000 downloads
  | Used for: World Bank GVC study, VoxEU GVCs eBook, Taiwan Bureau of Statistics
- China-trade study
+ China-trade study, etc.
 \end_layout
 
 \begin_layout Labeling
@@ -756,7 +761,7 @@ rddtools
 CRAN
 \emph default
 .
- Framework and tools for Regression Discontinuity Design
+ Framework for Regression Discontinuity Design | > 6000 downloads
 \begin_inset Newline newline
 \end_inset
 
@@ -790,7 +795,7 @@ gvc
 CRAN
 \emph default
 .
- Tools for Global Value Chain analysis
+ Tools for Global Value Chain analysis | > 7000 downloads
 \begin_inset Newline newline
 \end_inset
 
@@ -872,6 +877,13 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+2017 Benefits of Local Content Hosting, 
+\emph on
+The Internet Society
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
 2016 Promoting Content in Africa, 
 \emph on
 The Internet Society
@@ -924,7 +936,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Ifo Expert Group
+ Ifo Expert Group (for Switzerland)
 \end_layout
 
 \begin_layout Labeling
@@ -933,14 +945,6 @@ height "1pt"
 \end_inset
 
  Centre for Finance and Development; The Graduate Institute, Geneva
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Centre on Trade and Economic Integration; The Graduate Institute, Geneva
 \end_layout
 
 \begin_layout Labeling
