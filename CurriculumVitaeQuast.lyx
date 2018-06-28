@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 553
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -21,7 +21,7 @@ logicalmkup
 \language american
 \language_package default
 \inputencoding auto
-\fontencoding global
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -101,7 +101,7 @@ bastiaan quast
 \begin_inset Newline newline
 \end_inset
 
-http://qua.st/ | bastiaan.quast@graduateinstitute.ch
+http://qua.st/ | bastiaan.quast@itu.int
 \end_layout
 
 \begin_layout Standard
@@ -109,11 +109,11 @@ http://qua.st/ | bastiaan.quast@graduateinstitute.ch
 
 \size large
 \emph on
-Department of International Economics 
+International Telecommunication Union 
 \emph default
 |
 \emph on
- The Graduate Institute 
+ United Nations 
 \begin_inset Newline newline
 \end_inset
 
@@ -156,9 +156,9 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-Internet and Telecommunications adoption | Trade Analysis | Microeconomic
- estimators | Artificial Neural Networks (R & Python) | Blockchain (Bitcoin)
- | Complexity Modeling
+Artificial Neural Networks (R & Python) | Machine Learning | Data Science
+ | Microeconomic estimators | Internet adoption | Trade Analysis | Complexity
+ Modeling
 \end_layout
 
 \begin_layout Standard
@@ -199,7 +199,8 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-Analysing and developing ITU strategic targets; Economic impact of AI
+Machine learning researcher; Economic impact of AI; developing ITU strategic
+ targets
 \end_layout
 
 \begin_layout Labeling
