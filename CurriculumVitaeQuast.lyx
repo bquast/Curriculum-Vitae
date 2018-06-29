@@ -39,9 +39,20 @@ logicalmkup
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement class
+\float_alignment class
 \paperfontsize 11
 \spacing single
-\use_hyperref false
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize a4paper
 \use_geometry true
 \use_package amsmath 1
@@ -380,8 +391,25 @@ height "1pt"
 
 
 \emph default
-Jury: Richard Baldwin (president), Jean-Louis Arcand (supervisor) & Michael
- Kende
+Jury: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Richard Baldwin "
+target "https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)"
+literal "false"
+
+\end_inset
+
+(president), 
+\begin_inset CommandInset href
+LatexCommand href
+name "Jean-Louis Arcand "
+target "https://en.wikipedia.org/wiki/Jean-Louis_Arcand"
+literal "false"
+
+\end_inset
+
+(supervisor) & Michael Kende
 \begin_inset Newline newline
 \end_inset
 
@@ -461,7 +489,16 @@ height "1pt"
 \begin_inset Quotes eld
 \end_inset
 
-Global Value Chains in LICs
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Global Value Chains in LICs"
+target "http://graduateinstitute.ch/home/research/centresandprogrammes/ctei/publications_list/working_papers.html"
+literal "false"
+
+\end_inset
+
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -476,7 +513,16 @@ CTEI Working Paper Series
 \begin_inset Quotes eld
 \end_inset
 
-Making the Next Billion Demand Access
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Making the Next Billion Demand Access"
+target "https://ideas.repec.org/p/gii/cfdwpa/cfdwp01-2016.html"
+literal "false"
+
+\end_inset
+
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -491,7 +537,16 @@ CFD Working Paper | G7 briefing notes
 \begin_inset Quotes eld
 \end_inset
 
-decompr: GVC decomposition in R
+
+\begin_inset CommandInset href
+LatexCommand href
+name "decompr: GVC decomposition in R"
+target "http://graduateinstitute.ch/home/research/centresandprogrammes/ctei/publications_list/working_papers.html"
+literal "false"
+
+\end_inset
+
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -617,7 +672,16 @@ height "1pt"
 \begin_inset Quotes eld
 \end_inset
 
-Global Value Chains in Developing Economies
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Global Value Chains in Developing Economies"
+target "https://voxeu.org/article/global-value-chains-developing-economies"
+literal "false"
+
+\end_inset
+
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -661,7 +725,48 @@ height "1pt"
 status open
 
 \begin_layout Plain Layout
-rnn
+\begin_inset CommandInset href
+LatexCommand href
+name "rnn"
+target "https://cran.r-project.org/package=rnn"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN.
+
+\emph default
+ Recurrent Neural Network architectures in native R.
+ 
+\begin_inset Newline newline
+\end_inset
+
+multilayer Recurrent Neural Networks (Deep Learning) | > 20000 downloads
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "datasets.load"
+target "https://cran.r-project.org/package=datasets.load"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -676,17 +781,7 @@ CRAN.
 \begin_inset Newline newline
 \end_inset
 
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=rnn
-\end_layout
-
-\end_inset
-
-| multilayer Recurrent Neural Network (Deep Learning) | > 8000 downloads
+utilities and Graphical User Interface for loading datasets | > 25000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -696,7 +791,15 @@ https://cran.r-project.org/package=rnn
 status open
 
 \begin_layout Plain Layout
-decompr
+\begin_inset CommandInset href
+LatexCommand href
+name "decompr"
+target "https://cran.r-project.org/package=decompr"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -710,19 +813,8 @@ CRAN
 \begin_inset Newline newline
 \end_inset
 
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=decompr
-\end_layout
-
-\end_inset
-
-| Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 10000 downloads
- | Used for: World Bank GVC study, VoxEU GVCs eBook, Taiwan Bureau of Statistics
- China-trade study, etc.
+Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 14000 downloads
+ | Used for: World Bank GVC study, VoxEU GVCs eBook, WTO Annual Report
 \end_layout
 
 \begin_layout Labeling
@@ -732,7 +824,15 @@ https://cran.r-project.org/package=decompr
 status open
 
 \begin_layout Plain Layout
-sigmoid
+\begin_inset CommandInset href
+LatexCommand href
+name "sigmoid"
+target "https://cran.r-project.org/package=sigmoid"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -747,16 +847,6 @@ CRAN
 \end_inset
 
 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=sigmoid
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -766,7 +856,15 @@ https://cran.r-project.org/package=sigmoid
 status open
 
 \begin_layout Plain Layout
-rddtools
+\begin_inset CommandInset href
+LatexCommand href
+name "rddtools"
+target "https://cran.r-project.org/package=rddtools"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -776,18 +874,8 @@ rddtools
 CRAN
 \emph default
 .
- Framework for Regression Discontinuity Design | > 6000 downloads
+ Framework for Regression Discontinuity Design | > 11000 downloads
 \begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=rddtools
-\end_layout
-
 \end_inset
 
 
@@ -800,7 +888,15 @@ https://cran.r-project.org/package=rddtools
 status open
 
 \begin_layout Plain Layout
-gvc
+\begin_inset CommandInset href
+LatexCommand href
+name "gvc"
+target "https://cran.r-project.org/package=gvc"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -810,18 +906,8 @@ gvc
 CRAN
 \emph default
 .
- Tools for Global Value Chain analysis | > 7000 downloads
+ Tools for Global Value Chain analysis | > 10000 downloads
 \begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=gvc
-\end_layout
-
 \end_inset
 
 
@@ -834,7 +920,15 @@ https://cran.r-project.org/package=gvc
 status open
 
 \begin_layout Plain Layout
-diagonals
+\begin_inset CommandInset href
+LatexCommand href
+name "diagonals"
+target "https://cran.r-project.org/package=diagonals"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -847,16 +941,6 @@ CRAN
  Tools for manipulating fat-diagonal matrices, e.g.
  block matrices
 \begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-https://cran.r-project.org/package=diagonals
-\end_layout
-
 \end_inset
 
 
@@ -951,7 +1035,16 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Ifo Expert Group (for Switzerland)
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Ifo Expert Group"
+target "https://www.cesifo-group.de/ifoHome/facts/Survey-Results/World-Economic-Survey/World-Economic-Climate.html"
+literal "false"
+
+\end_inset
+
+ (University of Munich, for Switzerland)
 \end_layout
 
 \begin_layout Labeling
