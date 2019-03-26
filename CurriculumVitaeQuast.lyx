@@ -1,5 +1,5 @@
 #LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 553
+\lyxformat 566
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -168,8 +168,7 @@ height "1pt"
 
 \begin_layout Standard
 Artificial Neural Networks (R & Python) | Machine Learning | Data Science
- | Microeconomic estimators | Internet adoption | Trade Analysis | Complexity
- Modeling
+ | Microeconomic estimators | Quantum Machine Learning | Complexity Modeling
 \end_layout
 
 \begin_layout Standard
@@ -204,7 +203,7 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2017- economist | itu, geneva
+2017- researcher | itu, geneva
 \noun default
 
 \begin_inset Newline newline
@@ -748,7 +747,7 @@ CRAN.
 \begin_inset Newline newline
 \end_inset
 
-multilayer Recurrent Neural Networks (Deep Learning) | > 20000 downloads
+multilayer Recurrent Neural Networks (Deep Learning) | > 25000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -781,7 +780,7 @@ CRAN.
 \begin_inset Newline newline
 \end_inset
 
-utilities and Graphical User Interface for loading datasets | > 25000 downloads
+utilities and Graphical User Interface for loading datasets | > 40000 downloads
 \end_layout
 
 \begin_layout Labeling
