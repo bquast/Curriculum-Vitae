@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 566
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -21,7 +21,7 @@ logicalmkup
 \language american
 \language_package default
 \inputencoding auto
-\fontencoding auto
+\fontencoding global
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -39,8 +39,6 @@ logicalmkup
 \output_sync 0
 \bibtex_command default
 \index_command default
-\float_placement class
-\float_alignment class
 \paperfontsize 11
 \spacing single
 \use_hyperref true
@@ -112,7 +110,23 @@ bastiaan quast
 \begin_inset Newline newline
 \end_inset
 
-http://qua.st/ | bastiaan.quast@itu.int
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://qua.st/"
+
+\end_inset
+
+ | 
+\begin_inset CommandInset href
+LatexCommand href
+name "bastiaan.quast@itu.int"
+target "mailto:bastiaan.quast@itu.int"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -168,7 +182,7 @@ height "1pt"
 
 \begin_layout Standard
 Artificial Neural Networks (R & Python) | Machine Learning | Data Science
- | Microeconomic estimators | Quantum Machine Learning | Complexity Modeling
+ | Microeconomic estimators | Complexity Modeling
 \end_layout
 
 \begin_layout Standard
@@ -203,14 +217,15 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2017- researcher | itu, geneva
+2017- researcher | international telecommunications union (united nations),
+ geneva
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-Machine learning researcher; Economic impact of AI; developing ITU strategic
- targets
+Researcher; Economics, Machine Learning, Data privacy techniques (Homomorphic
+ Encryption, Private Set Intersection, Differential Privacy)
 \end_layout
 
 \begin_layout Labeling
@@ -223,8 +238,8 @@ Machine learning researcher; Economic impact of AI; developing ITU strategic
 \begin_inset Newline newline
 \end_inset
 
-Gender impact evaluation of FTAs on Developing Countries (East African Community
-), using Computation General Equilibrium programming (GTAP)
+Impact evaluation of FTAs on Developing Countries (East African Community),
+ using Computation General Equilibrium programming (GTAP)
 \end_layout
 
 \begin_layout Labeling
@@ -428,12 +443,12 @@ Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child
 \end_inset
 
 Research for Dr.
- Piedro Veglio, Executive Director for Switzerland to The World Bank
+ Piedro Veglio, Executive Director of the World Bank
 \begin_inset Newline newline
 \end_inset
 
 Microhydropower in remote dev.
- countries, at The World Bank (D.C.)
+ countries, at the World Bank (D.C.)
 \end_layout
 
 \begin_layout Labeling
@@ -448,7 +463,50 @@ Microhydropower in remote dev.
 
 \noun on
 2006-10 ba theoretical philosophy | university of groningen
-\begin_inset Newpage newpage
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Software experience
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+R, Python, Julia, C++, Go, Javascript, Bash, Java, Scala, MariaDB / MySQL,
+ SQL, NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git, HTML /
+ XML, Microsoft Office, Google Docs, Linux, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX
+\end_layout
+
 \end_inset
 
 
@@ -747,7 +805,7 @@ CRAN.
 \begin_inset Newline newline
 \end_inset
 
-multilayer Recurrent Neural Networks (Deep Learning) | > 25000 downloads
+multilayer Recurrent Neural Networks (Deep Learning) | > 50,000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -780,7 +838,7 @@ CRAN.
 \begin_inset Newline newline
 \end_inset
 
-utilities and Graphical User Interface for loading datasets | > 40000 downloads
+utilities and Graphical User Interface for loading datasets | > 50,000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -812,7 +870,7 @@ CRAN
 \begin_inset Newline newline
 \end_inset
 
-Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 14000 downloads
+Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 20,000 downloads
  | Used for: World Bank GVC study, VoxEU GVCs eBook, WTO Annual Report
 \end_layout
 
@@ -841,7 +899,8 @@ literal "false"
 CRAN
 \emph default
 .
- Sigmoid functions (logistic, Gompertz), inverses (logit), and SoftMax
+ Sigmoid functions (logistic, Gompertz), inverses (logit), and SoftMax |
+ >50,000 downloads
 \begin_inset Newline newline
 \end_inset
 
@@ -873,7 +932,7 @@ literal "false"
 CRAN
 \emph default
 .
- Framework for Regression Discontinuity Design | > 11000 downloads
+ Framework for Regression Discontinuity Design | > 20,000 downloads
 \begin_inset Newline newline
 \end_inset
 
@@ -905,7 +964,7 @@ literal "false"
 CRAN
 \emph default
 .
- Tools for Global Value Chain analysis | > 10000 downloads
+ Tools for Global Value Chain analysis | > 15,000 downloads
 \begin_inset Newline newline
 \end_inset
 
@@ -975,7 +1034,7 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2017 Benefits of Local Content Hosting, 
+2017 Benefits of Local Content Hosting (in Rwanda), 
 \emph on
 The Internet Society
 \end_layout
@@ -999,6 +1058,39 @@ Coginta
 2013 Diagnostic Local de Sécurité 2013 de Genève (Suisse), 
 \emph on
 Coginta
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Languages
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+English (fluent), Dutch (native), German (advanced), French (advanced),
+ Spanish (advanced), Hindi (basic) 
 \end_layout
 
 \begin_layout Standard
@@ -1037,7 +1129,7 @@ height "1pt"
  
 \begin_inset CommandInset href
 LatexCommand href
-name "Ifo Expert Group"
+name "Ifo Economists Expert Group"
 target "https://www.cesifo-group.de/ifoHome/facts/Survey-Results/World-Economic-Survey/World-Economic-Climate.html"
 literal "false"
 
