@@ -550,7 +550,7 @@ height "1pt"
 \begin_inset CommandInset href
 LatexCommand href
 name "Global Value Chains in LICs"
-target "http://graduateinstitute.ch/home/research/centresandprogrammes/ctei/publications_list/working_papers.html"
+target "https://repository.graduateinstitute.ch//record/294806"
 literal "false"
 
 \end_inset
@@ -574,7 +574,7 @@ CTEI Working Paper Series
 \begin_inset CommandInset href
 LatexCommand href
 name "Making the Next Billion Demand Access"
-target "https://ideas.repec.org/p/gii/cfdwpa/cfdwp01-2016.html"
+target "https://repository.graduateinstitute.ch//record/294135"
 literal "false"
 
 \end_inset
@@ -598,7 +598,7 @@ CFD Working Paper | G7 briefing notes
 \begin_inset CommandInset href
 LatexCommand href
 name "decompr: GVC decomposition in R"
-target "http://graduateinstitute.ch/home/research/centresandprogrammes/ctei/publications_list/working_papers.html"
+target "https://repository.graduateinstitute.ch/record/290687"
 literal "false"
 
 \end_inset
