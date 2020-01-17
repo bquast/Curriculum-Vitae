@@ -494,9 +494,9 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-R, Python, Julia, C++, Go, Javascript, Bash, Java, Scala, MariaDB / MySQL,
- SQL, NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git, HTML /
- XML, Microsoft Office, Google Docs, Linux, 
+R, Python, Julia, C++, Go, Javascript, Bash, Java, MariaDB / MySQL, SQL,
+ NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git, HTML / XML,
+ Microsoft Office, Google Docs, Linux, 
 \begin_inset ERT
 status open
 
@@ -610,21 +610,6 @@ literal "false"
  | 
 \emph on
 CTEI Working Paper Series
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2014 
-\begin_inset Quotes eld
-\end_inset
-
-Cryptocurrencies and Inflation
-\begin_inset Quotes erd
-\end_inset
-
- | 
-\emph on
-CFD Working Paper Series
 \end_layout
 
 \begin_layout Standard
@@ -833,12 +818,11 @@ literal "false"
 CRAN.
 
 \emph default
- First Recurrent Neural Network in the R language.
- 
+ utilities and Graphical User Interface for loading datasets
 \begin_inset Newline newline
 \end_inset
 
-utilities and Graphical User Interface for loading datasets | > 50,000 downloads
+> 50,000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -870,7 +854,7 @@ CRAN
 \begin_inset Newline newline
 \end_inset
 
-Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 20,000 downloads
+Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 30,000 downloads
  | Used for: World Bank GVC study, VoxEU GVCs eBook, WTO Annual Report
 \end_layout
 
@@ -932,7 +916,7 @@ literal "false"
 CRAN
 \emph default
 .
- Framework for Regression Discontinuity Design | > 20,000 downloads
+ Framework for Regression Discontinuity Design | > 25,000 downloads
 \begin_inset Newline newline
 \end_inset
 
@@ -964,7 +948,7 @@ literal "false"
 CRAN
 \emph default
 .
- Tools for Global Value Chain analysis | > 15,000 downloads
+ Tools for Global Value Chain analysis | > 20,000 downloads
 \begin_inset Newline newline
 \end_inset
 
