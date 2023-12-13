@@ -1,0 +1,1125 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{1.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{2.25}
+
+\usepackage{mathpazo}
+% Added by lyx2lyx
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+\end_preamble
+\use_default_options false
+\begin_modules
+logicalmkup
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.6in
+\rightmargin 0.75in
+\bottommargin 0.6in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size large
+\noun on
+bastiaan quast phd
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://bastiaanquast.com/"
+literal "false"
+
+\end_inset
+
+ | 
+\begin_inset CommandInset href
+LatexCommand href
+name "bquast@gmail.com"
+target "mailto:bquast@gmail.com"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Author of 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+transformer
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+attention
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+rnn
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+HomomorphicEncryption
+\end_layout
+
+\end_inset
+
+, and 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+HEtools
+\end_layout
+
+\end_inset
+
+ software libraries in 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Python
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Julia
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+R
+\end_layout
+
+\end_inset
+
+.
+ Author of book 
+\begin_inset Quotes eld
+\end_inset
+
+Transformers from Scratch in R
+\begin_inset Quotes erd
+\end_inset
+
+ (forthcoming).
+ Experience: 20+ full-stack, 15+ Data Science, 12+ Machine Learning.
+ Linux, Kubernetes, ETL, DevSecOps.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Employment
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2017-23 researcher | united nations (itu), geneva
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Machine learning project coordinator at the United Nations Specialized Agency
+ for ICT (ITU).
+ Co-Secretary of the ITU-World Health Organization Focus Group on AI for
+ Health (from creation in 2018).
+ Awarded the ITU Staff Award for 2020 (innovation).
+ Developed AWS platform for ML-analysis of webinars (transcribe, translate,
+ object ID).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2016-17 researcher | united nations (unctad), geneva
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Develop and conduct economic impact evaluation of EAC Free-Trade Agreement
+ via Computation General Equilibrium programming (GTAP).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2015–16 economist | the internet society, geneva 
+\emph on
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Paper on exogenous increase in availability of local language content and
+ internet adoption, presented at EEA 2016 | Conceputalised and executed
+ report 
+\begin_inset Quotes eld
+\end_inset
+
+Promoting Local Content in Africa
+\begin_inset Quotes erd
+\end_inset
+
+ presented at Africa Internet Summit, leading to Google update ad policy.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2013-15 research consultant | coginta, geneva / guinea
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Directed a large scale representative baseline survey of Conakry (Guinea)
+ population.
+ Conducted analysis for Canton of Geneva commissioned survey on police victimisa
+tion.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2014–15 research assistant | centre on conflict, development and peacebuilding
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+W.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Institute Nationale du Development
+\begin_inset Quotes erd
+\end_inset
+
+ (govt.
+ Morocco); direct survey on behaviour and community relations, using a Regressio
+n Discontinuity Design identification strategy.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2013-14 research assistant | centre for finance and development, geneva
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Developed survey design on remittances from Geneva | Redeveloped Centre's
+ website.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2013-14 teaching assistant | the graduate institute, geneva
+\noun default
+ 
+\begin_inset Newline newline
+\end_inset
+
+Teach weekly Masters' Statistics workshops | Supervised Masters' Research
+ Projects.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2012 research consultant |dutch development finance institute fmo, the hague
+ 
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Designed and directed survey on implementation of environmental, social,
+ and governance best practices among FMO-invested hedge funds.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2009 research assistant | university of groningen, netherlands
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Data collection and analysis for Ministry of Economics Affairs.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Education 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2012–16 phd in development economics | the graduate institute geneva
+\emph on
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Jury: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Richard Baldwin "
+target "https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)"
+literal "false"
+
+\end_inset
+
+(president), 
+\begin_inset CommandInset href
+LatexCommand href
+name "Jean-Louis Arcand "
+target "https://en.wikipedia.org/wiki/Jean-Louis_Arcand"
+literal "false"
+
+\end_inset
+
+(supervisor) & Michael Kende
+\begin_inset Newline newline
+\end_inset
+
+Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child
+ Growth
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2010–12 master in quantitative economics and finance |university of st.
+ gallen
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Research for Dr.
+ Piedro Veglio, Executive Director of the World Bank
+\begin_inset Newline newline
+\end_inset
+
+Microhydropower in remote dev.
+ countries, at the World Bank (D.C.)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2006-10 bsc economics | university of groningen
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2006-10 ba theoretical philosophy | university of groningen
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Software experience
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+R, Python, Julia, C++, Go, Javascript, Bash, Java, MariaDB / MySQL, SQL,
+ NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git, HTML / XML,
+ Microsoft Office, Google Docs, Linux, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Selected Research Papers
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2017 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Global Value Chains in LICs"
+target "https://repository.graduateinstitute.ch//record/294806"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+CTEI Working Paper Series
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Making the Next Billion Demand Access"
+target "https://repository.graduateinstitute.ch//record/294135"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+CFD Working Paper | G7 briefing notes
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "decompr: GVC decomposition in R"
+target "https://repository.graduateinstitute.ch/record/290687"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+CTEI Working Paper Series
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Conference Presentations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Quotes eld
+\end_inset
+
+Making the Next Billion Demand Access: The Local-Content Effect of 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+google.co.za
+\end_layout
+
+\end_inset
+
+ in Setswana
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+EEA Annual Conference 2016
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 
+\begin_inset Quotes eld
+\end_inset
+
+Urban Violence and Collective Efficacy in Karachi and Dhaka
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+Pictet Foundation / Centre for Finance and Development Conference 2013
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Other Publications, Op Eds and Short Notes
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2017 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Global Value Chains in Developing Economies"
+target "https://voxeu.org/article/global-value-chains-developing-economies"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\emph on
+VoxEU
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Software Development
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "rnn"
+target "https://cran.r-project.org/package=rnn"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN.
+
+\emph default
+ Recurrent Neural Network architectures in native R.
+ 
+\begin_inset Newline newline
+\end_inset
+
+multilayer Recurrent Neural Networks (Deep Learning) | > 50,000 downloads
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "datasets.load"
+target "https://cran.r-project.org/package=datasets.load"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN.
+
+\emph default
+ utilities and Graphical User Interface for loading datasets
+\begin_inset Newline newline
+\end_inset
+
+> 50,000 downloads
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "decompr"
+target "https://cran.r-project.org/package=decompr"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Global Value Chain decomposition.
+\begin_inset Newline newline
+\end_inset
+
+Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 30,000 downloads
+ | Used for: World Bank GVC study, VoxEU GVCs eBook, WTO Annual Report
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "sigmoid"
+target "https://cran.r-project.org/package=sigmoid"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Sigmoid functions (logistic, Gompertz), inverses (logit), and SoftMax |
+ >50,000 downloads
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "rddtools"
+target "https://cran.r-project.org/package=rddtools"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Framework for Regression Discontinuity Design | > 25,000 downloads
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "gvc"
+target "https://cran.r-project.org/package=gvc"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Tools for Global Value Chain analysis | > 20,000 downloads
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "diagonals"
+target "https://cran.r-project.org/package=diagonals"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN
+\emph default
+.
+ Tools for manipulating fat-diagonal matrices, e.g.
+ block matrices
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Languages
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+English (native), Dutch (native), Spanish (advanced), German (advanced),
+ French (advanced)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Affiliations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Ifo Economists Expert Group"
+target "https://www.cesifo-group.de/ifoHome/facts/Survey-Results/World-Economic-Survey/World-Economic-Climate.html"
+literal "false"
+
+\end_inset
+
+ (University of Munich, for Switzerland)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Centre for Finance and Development; The Graduate Institute, Geneva
+\end_layout
+
+\end_body
+\end_document
