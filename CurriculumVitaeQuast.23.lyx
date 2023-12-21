@@ -189,6 +189,26 @@ HEtools
 status open
 
 \begin_layout Plain Layout
+R
+\end_layout
+
+\end_inset
+
+.
+ Author of 
+\begin_inset Quotes eld
+\end_inset
+
+Transformers from Scratch in R
+\begin_inset Quotes erd
+\end_inset
+
+ (forthcoming).
+ Experienced developer in 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
 Python
 \end_layout
 
@@ -199,7 +219,7 @@ Python
 status open
 
 \begin_layout Plain Layout
-Julia
+TensorFlow
 \end_layout
 
 \end_inset
@@ -209,23 +229,83 @@ Julia
 status open
 
 \begin_layout Plain Layout
-R
+PyTorch
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+MatLab
+\end_layout
+
+\end_inset
+
+/
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Octave
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Git
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Linux
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+PowerBI
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Tableau
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Excel
 \end_layout
 
 \end_inset
 
 .
- Author of book 
-\begin_inset Quotes eld
-\end_inset
-
-Transformers from Scratch in R
-\begin_inset Quotes erd
-\end_inset
-
- (forthcoming).
- Experience: 20+ full-stack, 15+ Data Science, 12+ Machine Learning.
- Linux, Kubernetes, ETL, DevSecOps.
+ DevSecOps, GitOps, CI/CD, ETL.
 \end_layout
 
 \begin_layout Standard
@@ -266,13 +346,12 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-Machine learning project coordinator at the United Nations Specialized Agency
- for ICT (ITU).
- Co-Secretary of the ITU-World Health Organization Focus Group on AI for
- Health (from creation in 2018).
- Awarded the ITU Staff Award for 2020 (innovation).
- Developed AWS platform for ML-analysis of webinars (transcribe, translate,
- object ID).
+Researcher; Machine Learning, Built Homomorphic Encryption (Python, R, Julia)
+ library.
+ Developed AWS (Kubernetes/Docker) transcript and translation platform,
+ trained custom SageMaker models.
+ Built Flask web app for QR codes of itu.int domains.
+ Android (Java/Kotlin) and iOS apps.
 \end_layout
 
 \begin_layout Labeling
@@ -285,8 +364,17 @@ Machine learning project coordinator at the United Nations Specialized Agency
 \begin_inset Newline newline
 \end_inset
 
-Develop and conduct economic impact evaluation of EAC Free-Trade Agreement
- via Computation General Equilibrium programming (GTAP).
+Impact evaluation of FTAs on Developing Countries (East African Community),
+ using Computation General Equilibrium programming (
+\begin_inset CommandInset href
+LatexCommand href
+name "GTAP"
+target "https://www.gtap.agecon.purdue.edu/products/rungtap/default.asp"
+literal "false"
+
+\end_inset
+
+)
 \end_layout
 
 \begin_layout Labeling
@@ -312,7 +400,9 @@ Promoting Local Content in Africa
 \begin_inset Quotes erd
 \end_inset
 
- presented at Africa Internet Summit, leading to Google update ad policy.
+ presented at Africa Internet Summit, leading to Google update advertising
+ policy to help monetise African language content.
+ Global Latency measurements (Dyn).
 \end_layout
 
 \begin_layout Labeling
@@ -326,9 +416,8 @@ Promoting Local Content in Africa
 \end_inset
 
 Directed a large scale representative baseline survey of Conakry (Guinea)
- population.
- Conducted analysis for Canton of Geneva commissioned survey on police victimisa
-tion.
+ population | Conducted analysis for Canton of Geneva commissioned survey
+ on police victimisation
 \end_layout
 
 \begin_layout Labeling
@@ -341,18 +430,16 @@ tion.
 \begin_inset Newline newline
 \end_inset
 
-W.
- 
+Collaborated with the 
 \begin_inset Quotes eld
 \end_inset
 
-Institute Nationale du Development
+Institute Nationale du Development Humaine
 \begin_inset Quotes erd
 \end_inset
 
  (govt.
- Morocco); direct survey on behaviour and community relations, using a Regressio
-n Discontinuity Design identification strategy.
+ Morocco) to supervise 400-household sruvey, using RDD identification strategy
 \end_layout
 
 \begin_layout Labeling
@@ -366,7 +453,7 @@ n Discontinuity Design identification strategy.
 \end_inset
 
 Developed survey design on remittances from Geneva | Redeveloped Centre's
- website.
+ website
 \end_layout
 
 \begin_layout Labeling
@@ -379,8 +466,8 @@ Developed survey design on remittances from Geneva | Redeveloped Centre's
 \begin_inset Newline newline
 \end_inset
 
-Teach weekly Masters' Statistics workshops | Supervised Masters' Research
- Projects.
+Taught weekly Masters' Statistics workshops | Supervised Masters' Research
+ Projects
 \end_layout
 
 \begin_layout Labeling
@@ -394,8 +481,7 @@ Teach weekly Masters' Statistics workshops | Supervised Masters' Research
 \begin_inset Newline newline
 \end_inset
 
-Designed and directed survey on implementation of environmental, social,
- and governance best practices among FMO-invested hedge funds.
+Designed and directed survey on ESG funds performance
 \end_layout
 
 \begin_layout Labeling
@@ -408,7 +494,8 @@ Designed and directed survey on implementation of environmental, social,
 \begin_inset Newline newline
 \end_inset
 
-Data collection and analysis for Ministry of Economics Affairs.
+Data collection and analysis for Ministry of Economics Affairs commisioned
+ survey
 \end_layout
 
 \begin_layout Standard
@@ -541,9 +628,9 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-R, Python, Julia, C++, Go, Javascript, Bash, Java, MariaDB / MySQL, SQL,
- NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git, HTML / XML,
- Microsoft Office, Google Docs, Linux, 
+Python, R, Julia, SnowFlake, MongoDB, C++, Go, Javascript, Bash, Java, MariaDB
+ / MySQL, SQL, NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git,
+ HTML / XML, Microsoft Office, Google Docs, Linux, 
 \begin_inset ERT
 status open
 
@@ -689,11 +776,7 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2016 
-\begin_inset Quotes eld
-\end_inset
-
-Making the Next Billion Demand Access: The Local-Content Effect of 
+2016 The Internet Adoption from 
 \begin_inset Flex Code
 status open
 
@@ -724,7 +807,7 @@ Urban Violence and Collective Efficacy in Karachi and Dhaka
 
  | 
 \emph on
-Pictet Foundation / Centre for Finance and Development Conference 2013
+Pictet Foundation
 \end_layout
 
 \begin_layout Standard
@@ -809,6 +892,151 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+2023 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "HEtools"
+target "https://pypi.org/project/HEtools/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+PyPI.
+
+\emph default
+ Homomorphic Encryption (BFV, BGV, CKKS).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "HEtools"
+target "https://github.com/JuliaRegistries/General"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+Julia General Registery.
+
+\emph default
+ Homomorphic Encryption (BFV, BGV, CKKS).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "HomomorphicEncryption"
+target "https://cran.r-project.org/package=HomomorphicEncryption"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN.
+
+\emph default
+ Homomorphic Encryption (BFV, BGV, CKKS).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "libactication"
+target "https://pypi.org/project/libactivation/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+PyPI.
+
+\emph default
+ Activation functions (sigmoid, logistic, Gompertz, ReLU).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "transformer"
+target "https://cran.r-project.org/package=transformer"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+CRAN.
+
+\emph default
+ transformer blocks (attention, feed-forward neural networks).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
 2016 
 \begin_inset Flex Code
 status open
@@ -834,10 +1062,6 @@ CRAN.
 \emph default
  Recurrent Neural Network architectures in native R.
  
-\begin_inset Newline newline
-\end_inset
-
-multilayer Recurrent Neural Networks (Deep Learning) | > 50,000 downloads
 \end_layout
 
 \begin_layout Labeling
@@ -865,11 +1089,7 @@ literal "false"
 CRAN.
 
 \emph default
- utilities and Graphical User Interface for loading datasets
-\begin_inset Newline newline
-\end_inset
-
-> 50,000 downloads
+ utilities and Graphical User Interface for loading datasets | 130k
 \end_layout
 
 \begin_layout Labeling
@@ -898,108 +1118,6 @@ CRAN
 \emph default
 .
  Global Value Chain decomposition.
-\begin_inset Newline newline
-\end_inset
-
-Implementation of Wang-Wei-Zhu GVC decomposition algorithm | > 30,000 downloads
- | Used for: World Bank GVC study, VoxEU GVCs eBook, WTO Annual Report
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2015 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset href
-LatexCommand href
-name "sigmoid"
-target "https://cran.r-project.org/package=sigmoid"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- 
-\emph on
-CRAN
-\emph default
-.
- Sigmoid functions (logistic, Gompertz), inverses (logit), and SoftMax |
- >50,000 downloads
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2015 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset href
-LatexCommand href
-name "rddtools"
-target "https://cran.r-project.org/package=rddtools"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- 
-\emph on
-CRAN
-\emph default
-.
- Framework for Regression Discontinuity Design | > 25,000 downloads
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2014 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset href
-LatexCommand href
-name "gvc"
-target "https://cran.r-project.org/package=gvc"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- 
-\emph on
-CRAN
-\emph default
-.
- Tools for Global Value Chain analysis | > 20,000 downloads
-\begin_inset Newline newline
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -1029,10 +1147,6 @@ CRAN
 .
  Tools for manipulating fat-diagonal matrices, e.g.
  block matrices
-\begin_inset Newline newline
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1098,10 +1212,6 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- 
 \begin_inset CommandInset href
 LatexCommand href
 name "Ifo Economists Expert Group"
@@ -1111,14 +1221,6 @@ literal "false"
 \end_inset
 
  (University of Munich, for Switzerland)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- Centre for Finance and Development; The Graduate Institute, Geneva
 \end_layout
 
 \end_body
