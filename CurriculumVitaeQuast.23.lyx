@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -20,11 +20,11 @@
 \begin_modules
 logicalmkup
 \end_modules
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language american
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding auto-legacy
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -32,7 +32,9 @@ logicalmkup
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \use_microtype false
@@ -54,7 +56,7 @@ logicalmkup
 \pdf_colorlinks false
 \pdf_backref false
 \pdf_pdfusetitle true
-\papersize a4paper
+\papersize a4
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 2
@@ -75,7 +77,9 @@ logicalmkup
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -95,11 +99,16 @@ logicalmkup
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -144,7 +153,8 @@ transformer
 
 \end_inset
 
-, 
+,
+ 
 \begin_inset Flex Code
 status open
 
@@ -154,7 +164,8 @@ attention
 
 \end_inset
 
-, 
+,
+ 
 \begin_inset Flex Code
 status open
 
@@ -164,7 +175,8 @@ rnn
 
 \end_inset
 
-, 
+,
+ 
 \begin_inset Flex Code
 status open
 
@@ -174,7 +186,8 @@ HomomorphicEncryption
 
 \end_inset
 
-, and 
+,
+ and 
 \begin_inset Flex Code
 status open
 
@@ -194,6 +207,28 @@ R
 
 \end_inset
 
+,
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Python
+\end_layout
+
+\end_inset
+
+,
+ and 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Julia
+\end_layout
+
+\end_inset
+
 .
  Author of 
 \begin_inset Quotes eld
@@ -209,12 +244,34 @@ Transformers from Scratch in R
 status open
 
 \begin_layout Plain Layout
+SQL
+\end_layout
+
+\end_inset
+
+,
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+C
+\end_layout
+
+\end_inset
+
+,
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
 Python
 \end_layout
 
 \end_inset
 
-, 
+ (
 \begin_inset Flex Code
 status open
 
@@ -224,7 +281,8 @@ TensorFlow
 
 \end_inset
 
-, 
+,
+ 
 \begin_inset Flex Code
 status open
 
@@ -234,78 +292,40 @@ PyTorch
 
 \end_inset
 
-, 
+),
+ 
 \begin_inset Flex Code
 status open
 
 \begin_layout Plain Layout
-MatLab
+R
 \end_layout
 
 \end_inset
 
-/
+,
+ 
 \begin_inset Flex Code
 status open
 
 \begin_layout Plain Layout
-Octave
+Go
 \end_layout
 
 \end_inset
 
-, 
+,
+ 
 \begin_inset Flex Code
 status open
 
 \begin_layout Plain Layout
-Git
-\end_layout
-
-\end_inset
-
-, 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-Linux
-\end_layout
-
-\end_inset
-
-, 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-PowerBI
-\end_layout
-
-\end_inset
-
-, 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-Tableau
-\end_layout
-
-\end_inset
-
-, 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-Excel
+JavaScript
 \end_layout
 
 \end_inset
 
 .
- DevSecOps, GitOps, CI/CD, ETL.
 \end_layout
 
 \begin_layout Standard
@@ -340,28 +360,62 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2024- ai engineer | billtrust, san jose
+2024- owner | valiq security,
+ zurich,
+ switzerland
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-AI engineer: deep learning, machine learning, Bayesian statistics, data
- engineering, Python, R, Excel, Julia, Git.
+Build FHE libraries in Python,
+ Julia,
+ R,
+ C,
+ Rust.
+ Build Swift apps (iOS,
+ MacOS).
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2017-23 researcher | united nations (itu), geneva
+2023-24 ml engineer | billtrust,
+ new jersey,
+ usa
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-Researcher; Machine Learning, Built Homomorphic Encryption (Python, R, Julia)
- library.
+ML engineer:
+ deep learning,
+ machine learning,
+ Bayesian statistics,
+ data engineering,
+ Python,
+ R,
+ SQL,
+ Julia.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2017-23 ml researcher | united nations (itu),
+ geneva
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Researcher;
+ Machine Learning,
+ Built Homomorphic Encryption (Python,
+ R,
+ Julia) library.
  Developed AWS (Kubernetes/Docker) transcript and translation platform,
  trained custom SageMaker models.
  Built Flask web app for QR codes of itu.int domains.
@@ -372,7 +426,8 @@ Researcher; Machine Learning, Built Homomorphic Encryption (Python, R, Julia)
 \labelwidthstring 00.00.0000
 
 \noun on
-2016-17 researcher | united nations (unctad), geneva
+2016-17 researcher | united nations (unctad),
+ geneva
 \noun default
 
 \begin_inset Newline newline
@@ -395,7 +450,8 @@ literal "false"
 \labelwidthstring 00.00.0000
 
 \noun on
-2015–16 economist | the internet society, geneva 
+2015–16 economist | the internet society,
+ geneva 
 \emph on
 \noun default
 
@@ -404,9 +460,8 @@ literal "false"
 
 
 \emph default
-Paper on exogenous increase in availability of local language content and
- internet adoption, presented at EEA 2016 | Conceputalised and executed
- report 
+Paper on exogenous increase in availability of local language content and internet adoption,
+ presented at EEA 2016 | Conceputalised and executed report 
 \begin_inset Quotes eld
 \end_inset
 
@@ -414,8 +469,8 @@ Promoting Local Content in Africa
 \begin_inset Quotes erd
 \end_inset
 
- presented at Africa Internet Summit, leading to Google update advertising
- policy to help monetise African language content.
+ presented at Africa Internet Summit,
+ leading to Google update advertising policy to help monetise African language content.
  Global Latency measurements (Dyn).
 \end_layout
 
@@ -423,22 +478,22 @@ Promoting Local Content in Africa
 \labelwidthstring 00.00.0000
 
 \noun on
-2013-15 research consultant | coginta, geneva / guinea
+2013-15 research consultant | coginta,
+ geneva / guinea
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-Directed a large scale representative baseline survey of Conakry (Guinea)
- population | Conducted analysis for Canton of Geneva commissioned survey
- on police victimisation
+Directed a large scale representative baseline survey of Conakry (Guinea) population | Conducted analysis for Canton of Geneva commissioned survey on police victimisation
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2014–15 research assistant | centre on conflict, development and peacebuilding
+2014–15 research assistant | centre on conflict,
+ development and peacebuilding
 \noun default
 
 \begin_inset Newline newline
@@ -453,43 +508,44 @@ Institute Nationale du Development Humaine
 \end_inset
 
  (govt.
- Morocco) to supervise 400-household sruvey, using RDD identification strategy
+ Morocco) to supervise 400-household sruvey,
+ using RDD identification strategy
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2013-14 research assistant | centre for finance and development, geneva
+2013-14 research assistant | centre for finance and development,
+ geneva
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-Developed survey design on remittances from Geneva | Redeveloped Centre's
- website
+Developed survey design on remittances from Geneva | Redeveloped Centre's website
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2013-14 teaching assistant | the graduate institute, geneva
+2013-14 teaching assistant | the graduate institute,
+ geneva
 \noun default
  
 \begin_inset Newline newline
 \end_inset
 
-Taught weekly Masters' Statistics workshops | Supervised Masters' Research
- Projects
+Taught weekly Masters' Statistics workshops | Supervised Masters' Research Projects
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \noun on
-2012 research consultant |dutch development finance institute fmo, the hague
- 
+2012 research consultant |dutch development finance institute fmo,
+ the hague 
 \noun default
 
 \begin_inset Newline newline
@@ -502,14 +558,14 @@ Designed and directed survey on ESG funds performance
 \labelwidthstring 00.00.0000
 
 \noun on
-2009 research assistant | university of groningen, netherlands
+2009 research assistant | university of groningen,
+ netherlands
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-Data collection and analysis for Ministry of Economics Affairs commisioned
- survey
+Data collection and analysis for Ministry of Economics Affairs commisioned survey
 \end_layout
 
 \begin_layout Standard
@@ -553,7 +609,8 @@ height "1pt"
 
 
 \emph default
-Jury: 
+Jury:
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "Richard Baldwin "
@@ -562,7 +619,8 @@ literal "false"
 
 \end_inset
 
-(president), 
+(president),
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "Jean-Louis Arcand "
@@ -575,8 +633,7 @@ literal "false"
 \begin_inset Newline newline
 \end_inset
 
-Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child
- Growth
+Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child Growth
 \end_layout
 
 \begin_layout Labeling
@@ -591,12 +648,14 @@ Internet Adoption in Africa | Trade & Global Value Chains | Gender and Child
 \end_inset
 
 Research for Dr.
- Piedro Veglio, Executive Director of the World Bank
+ Piedro Veglio,
+ Executive Director of the World Bank
 \begin_inset Newline newline
 \end_inset
 
 Microhydropower in remote dev.
- countries, at the World Bank (D.C.)
+ countries,
+ at the World Bank (D.C.)
 \end_layout
 
 \begin_layout Labeling
@@ -642,9 +701,17 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-Python, R, Julia, SnowFlake, MongoDB, C++, Go, Javascript, Bash, Java, MariaDB
- / MySQL, SQL, NoSQL, Tensorflow, Keras, PyTorch, Kubernetes, Docker, Git,
- HTML / XML, Microsoft Office, Google Docs, Linux, 
+Python (Tensorflow,
+ PyTorch),
+ R,
+ Julia,
+ SQL,
+ C,
+ Go,
+ Rust Javascript,
+ Swift,
+ Linux,
+ 
 \begin_inset ERT
 status open
 
@@ -827,7 +894,8 @@ Pictet Foundation
 \begin_layout Standard
 
 \series bold
-Other Publications, Op Eds and Short Notes
+Other Publications,
+ Op Eds and Short Notes
 \series default
 
 \begin_inset Newline newline
@@ -929,7 +997,9 @@ literal "false"
 PyPI.
 
 \emph default
- Homomorphic Encryption (BFV, BGV, CKKS).
+ Homomorphic Encryption (BFV,
+ BGV,
+ CKKS).
  
 \end_layout
 
@@ -958,7 +1028,9 @@ literal "false"
 Julia General Registery.
 
 \emph default
- Homomorphic Encryption (BFV, BGV, CKKS).
+ Homomorphic Encryption (BFV,
+ BGV,
+ CKKS).
  
 \end_layout
 
@@ -987,7 +1059,9 @@ literal "false"
 CRAN.
 
 \emph default
- Homomorphic Encryption (BFV, BGV, CKKS).
+ Homomorphic Encryption (BFV,
+ BGV,
+ CKKS).
  
 \end_layout
 
@@ -1016,7 +1090,10 @@ literal "false"
 PyPI.
 
 \emph default
- Activation functions (sigmoid, logistic, Gompertz, ReLU).
+ Activation functions (sigmoid,
+ logistic,
+ Gompertz,
+ ReLU).
  
 \end_layout
 
@@ -1045,7 +1122,8 @@ literal "false"
 CRAN.
 
 \emph default
- transformer blocks (attention, feed-forward neural networks).
+ transformer blocks (attention,
+ feed-forward neural networks).
  
 \end_layout
 
@@ -1159,7 +1237,8 @@ literal "false"
 CRAN
 \emph default
 .
- Tools for manipulating fat-diagonal matrices, e.g.
+ Tools for manipulating fat-diagonal matrices,
+ e.g.
  block matrices
 \end_layout
 
@@ -1192,7 +1271,10 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-English (native), Dutch (native), Spanish (advanced), German (advanced),
+English (native),
+ Dutch (native),
+ Spanish (advanced),
+ German (advanced),
  French (advanced)
 \end_layout
 
@@ -1234,7 +1316,8 @@ literal "false"
 
 \end_inset
 
- (University of Munich, for Switzerland)
+ (University of Munich,
+ for Switzerland)
 \end_layout
 
 \end_body
